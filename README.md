@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**Endemic1337/Endemic1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 Hi there
+#### 🧑 Basic Info
+- 🗺️| I am located in Czech Republic.
+- 🎂| I am 15 as of 24/12/22.
+- 😔| I am a Kotlin hater (sad).
+#### 👨‍💻 Skills
+- ☕| Java
+- 💀| C#
+- 🕸️| Html
+- 🖼️| Css
+#### 🔧 Projects
+- ❌| Atani
+- ✔️| Metaware cool asf edition
+#### 📊 Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Endemic1337&bg_color=1e1e1e&color=ffffff&line=ffffff&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
