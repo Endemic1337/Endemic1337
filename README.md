@@ -11,5 +11,8 @@
 #### 🔧 Projects
 - ❌| Atani
 - ✔️| Metaware cool asf edition
+- ❌| Metaware 2.0
+- ❌| Affinity Market
+- ❌| Shibs Client
 #### 📊 Stats
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Endemic1337&bg_color=1e1e1e&color=ffffff&line=ffffff&point=d4d4d4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
